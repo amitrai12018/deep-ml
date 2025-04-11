@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:50:15.206Z",
+  "generated_at": "2026-10-01T16:50:17.567Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -37,6 +37,19 @@
       "path": "problems/0014-linear-regression-using-normal-equation",
       "first_solved_at": "2025-04-10T17:22:15.338Z",
       "last_pushed_at": "2025-04-10T17:22:15.338Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:81": {
+      "kind": "problem",
+      "id": "81",
+      "title": "Poisson Distribution Probability Calculator",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/81",
+      "path": "problems/0081-poisson-distribution-probability-calculator",
+      "first_solved_at": "2025-04-11T06:09:31.554Z",
+      "last_pushed_at": "2025-04-11T06:09:31.554Z",
       "language": "python",
       "lines": 19
     }
