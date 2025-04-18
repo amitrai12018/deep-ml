@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:50:24.371Z",
+  "generated_at": "2026-10-01T16:50:26.835Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -156,6 +156,32 @@
       "last_pushed_at": "2025-04-17T06:08:02.711Z",
       "language": "python",
       "lines": 15
+    },
+    "problem:46": {
+      "kind": "problem",
+      "id": "46",
+      "title": "Implement Precision Metric",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/46",
+      "path": "problems/0046-implement-precision-metric",
+      "first_solved_at": "2025-04-18T08:17:14.435Z",
+      "last_pushed_at": "2025-04-18T08:17:14.435Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2025-04-18T13:05:51.701Z",
+      "last_pushed_at": "2025-04-18T13:05:51.701Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
