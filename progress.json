@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:50:28.876Z",
+  "generated_at": "2026-10-01T16:50:30.692Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -195,6 +195,71 @@
       "last_pushed_at": "2025-04-19T11:33:16.387Z",
       "language": "python",
       "lines": 1
+    },
+    "problem:53": {
+      "kind": "problem",
+      "id": "53",
+      "title": "Implement Self-Attention Mechanism",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/53",
+      "path": "problems/0053-implement-self-attention-mechanism",
+      "first_solved_at": "2025-04-20T07:21:52.570Z",
+      "last_pushed_at": "2025-04-20T07:21:52.570Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:117": {
+      "kind": "problem",
+      "id": "117",
+      "title": "Compute Orthonormal Basis for 2D Vectors",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/117",
+      "path": "problems/0117-compute-orthonormal-basis-for-2d-vectors",
+      "first_solved_at": "2025-04-20T10:16:20.439Z",
+      "last_pushed_at": "2025-04-20T10:16:20.439Z",
+      "language": "python",
+      "lines": 33
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2025-04-20T10:17:34.547Z",
+      "last_pushed_at": "2025-04-20T10:17:34.547Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2025-04-20T12:00:44.748Z",
+      "last_pushed_at": "2025-04-20T12:00:44.748Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:9": {
+      "kind": "problem",
+      "id": "9",
+      "title": "Matrix times Matrix ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/9",
+      "path": "problems/0009-matrix-times-matrix",
+      "first_solved_at": "2025-04-20T12:03:32.941Z",
+      "last_pushed_at": "2025-04-20T12:03:32.941Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
