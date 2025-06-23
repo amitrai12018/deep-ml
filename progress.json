@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:50:45.876Z",
+  "generated_at": "2026-10-01T16:50:49.183Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -349,6 +349,19 @@
       "path": "problems/0109-implement-layer-normalization-for-sequence-data",
       "first_solved_at": "2025-06-22T19:33:45.171Z",
       "last_pushed_at": "2025-06-22T19:33:45.171Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:18": {
+      "kind": "problem",
+      "id": "18",
+      "title": "Implement K-Fold Cross-Validation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/18",
+      "path": "problems/0018-implement-k-fold-cross-validation",
+      "first_solved_at": "2025-06-23T03:39:30.522Z",
+      "last_pushed_at": "2025-06-23T03:39:30.522Z",
       "language": "python",
       "lines": 1
     }
