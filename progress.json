@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:50:53.624Z",
+  "generated_at": "2026-10-01T16:50:55.572Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -390,6 +390,45 @@
       "last_pushed_at": "2026-03-24T07:36:41.452Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-03-25T18:13:44.845Z",
+      "last_pushed_at": "2026-03-25T18:13:44.845Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:118": {
+      "kind": "problem",
+      "id": "118",
+      "title": "Compute the Cross Product of Two 3D Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/118",
+      "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
+      "first_solved_at": "2026-03-25T18:18:28.513Z",
+      "last_pushed_at": "2026-03-25T18:18:28.513Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:327": {
+      "kind": "problem",
+      "id": "327",
+      "title": "Engram Context-Aware Gating",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/327",
+      "path": "problems/0327-engram-context-aware-gating",
+      "first_solved_at": "2026-03-25T18:49:29.091Z",
+      "last_pushed_at": "2026-03-25T18:49:29.091Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
