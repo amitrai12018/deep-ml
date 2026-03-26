@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:50:55.572Z",
+  "generated_at": "2026-10-01T16:50:58.108Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -429,6 +429,123 @@
       "last_pushed_at": "2026-03-25T18:49:29.091Z",
       "language": "python",
       "lines": 27
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-03-26T05:52:01.029Z",
+      "last_pushed_at": "2026-03-26T05:52:01.029Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-03-26T05:56:16.304Z",
+      "last_pushed_at": "2026-03-26T05:56:16.304Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-03-26T06:16:10.138Z",
+      "last_pushed_at": "2026-03-26T06:16:10.138Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:65": {
+      "kind": "problem",
+      "id": "65",
+      "title": "Implement Compressed Row Sparse Matrix (CSR) Format Conversion",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/65",
+      "path": "problems/0065-implement-compressed-row-sparse-matrix-csr-format-conversion",
+      "first_solved_at": "2026-03-26T06:40:06.250Z",
+      "last_pushed_at": "2026-03-26T06:40:06.250Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:67": {
+      "kind": "problem",
+      "id": "67",
+      "title": "Implement Compressed Column Sparse Matrix Format (CSC)",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/67",
+      "path": "problems/0067-implement-compressed-column-sparse-matrix-format-csc",
+      "first_solved_at": "2026-03-26T19:17:21.292Z",
+      "last_pushed_at": "2026-03-26T19:17:21.292Z",
+      "language": "python",
+      "lines": 24
+    },
+    "problem:84": {
+      "kind": "problem",
+      "id": "84",
+      "title": "Phi Transformation for Polynomial Features",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/84",
+      "path": "problems/0084-phi-transformation-for-polynomial-features",
+      "first_solved_at": "2026-03-26T19:22:38.427Z",
+      "last_pushed_at": "2026-03-26T19:22:38.427Z",
+      "language": "python",
+      "lines": 22
+    },
+    "problem:195": {
+      "kind": "problem",
+      "id": "195",
+      "title": "Matrix Determinant & Trace",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/195",
+      "path": "problems/0195-matrix-determinant-trace",
+      "first_solved_at": "2026-03-26T19:24:50.175Z",
+      "last_pushed_at": "2026-03-26T19:24:50.175Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-03-26T19:33:35.726Z",
+      "last_pushed_at": "2026-03-26T19:33:35.726Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:331": {
+      "kind": "problem",
+      "id": "331",
+      "title": "Check Linear Independence of Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/331",
+      "path": "problems/0331-check-linear-independence-of-vectors",
+      "first_solved_at": "2026-03-26T19:48:13.608Z",
+      "last_pushed_at": "2026-03-26T19:48:13.608Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
