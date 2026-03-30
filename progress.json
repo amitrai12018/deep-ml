@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:51:02.491Z",
+  "generated_at": "2026-10-01T16:51:04.875Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -559,6 +559,32 @@
       "last_pushed_at": "2026-03-27T09:18:43.020Z",
       "language": "python",
       "lines": 25
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2026-03-30T03:33:23.184Z",
+      "last_pushed_at": "2026-03-30T03:33:23.184Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:57": {
+      "kind": "problem",
+      "id": "57",
+      "title": "Gauss-Seidel Method for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/57",
+      "path": "problems/0057-gauss-seidel-method-for-solving-linear-systems",
+      "first_solved_at": "2026-03-30T03:50:26.856Z",
+      "last_pushed_at": "2026-03-30T03:50:26.856Z",
+      "language": "python",
+      "lines": 21
     }
   }
 }
