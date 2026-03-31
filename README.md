@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 45 problems · 0 labs · 0 math
+**48** solved · 48 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -47,11 +47,14 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-20 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-03-25 | [solution](problems/0327-engram-context-aware-gating) |
+| [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-03-31 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-03-30 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
+| [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-03-31 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-06-23 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-06-22 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-04-20 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-09 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-03-31 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-20 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-26 | [solution](problems/0007-matrix-transformation) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-27 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |

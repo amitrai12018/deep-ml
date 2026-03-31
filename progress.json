@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:51:04.875Z",
+  "generated_at": "2026-10-01T16:51:07.205Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -585,6 +585,45 @@
       "last_pushed_at": "2026-03-30T03:50:26.856Z",
       "language": "python",
       "lines": 21
+    },
+    "problem:329": {
+      "kind": "problem",
+      "id": "329",
+      "title": "Matrix Rank",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/329",
+      "path": "problems/0329-matrix-rank",
+      "first_solved_at": "2026-03-31T09:15:50.999Z",
+      "last_pushed_at": "2026-03-31T09:15:50.999Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:58": {
+      "kind": "problem",
+      "id": "58",
+      "title": "Gaussian Elimination for Solving Linear Systems",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/58",
+      "path": "problems/0058-gaussian-elimination-for-solving-linear-systems",
+      "first_solved_at": "2026-03-31T15:16:11.117Z",
+      "last_pushed_at": "2026-03-31T15:16:11.117Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:68": {
+      "kind": "problem",
+      "id": "68",
+      "title": "Find the column space of a matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/68",
+      "path": "problems/0068-find-the-column-space-of-a-matrix",
+      "first_solved_at": "2026-03-31T15:40:34.160Z",
+      "last_pushed_at": "2026-03-31T15:40:34.160Z",
+      "language": "python",
+      "lines": 54
     }
   }
 }
