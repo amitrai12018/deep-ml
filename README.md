@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 49 problems · 0 labs · 0 math
+**50** solved · 50 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -44,6 +44,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-03-26 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-03-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-06-05 | [solution](problems/0090-bm25-ranking) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-04-14 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-20 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-03-25 | [solution](problems/0327-engram-context-aware-gating) |
