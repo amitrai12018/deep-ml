@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:51:13.942Z",
+  "generated_at": "2026-10-01T16:51:18.209Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -650,6 +650,58 @@
       "last_pushed_at": "2026-04-14T14:06:57.711Z",
       "language": "python",
       "lines": 20
+    },
+    "problem:159": {
+      "kind": "problem",
+      "id": "159",
+      "title": "Incremental Mean for Online Reward Estimation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/159",
+      "path": "problems/0159-incremental-mean-for-online-reward-estimation",
+      "first_solved_at": "2026-05-30T13:13:47.839Z",
+      "last_pushed_at": "2026-05-30T13:13:47.839Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:161": {
+      "kind": "problem",
+      "id": "161",
+      "title": "Exponential Weighted Average of Rewards",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/161",
+      "path": "problems/0161-exponential-weighted-average-of-rewards",
+      "first_solved_at": "2026-05-30T13:51:27.814Z",
+      "last_pushed_at": "2026-05-30T13:51:27.814Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:162": {
+      "kind": "problem",
+      "id": "162",
+      "title": "Upper Confidence Bound (UCB) Action Selection",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/162",
+      "path": "problems/0162-upper-confidence-bound-ucb-action-selection",
+      "first_solved_at": "2026-05-30T14:06:59.871Z",
+      "last_pushed_at": "2026-05-30T14:06:59.871Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:167": {
+      "kind": "problem",
+      "id": "167",
+      "title": "Calculate the Discounted Return for a Given Trajectory",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/167",
+      "path": "problems/0167-calculate-the-discounted-return-for-a-given-trajectory",
+      "first_solved_at": "2026-05-30T14:11:38.709Z",
+      "last_pushed_at": "2026-05-30T14:11:38.709Z",
+      "language": "python",
+      "lines": 19
     }
   }
 }
