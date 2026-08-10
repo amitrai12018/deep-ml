@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**57** solved · 57 problems · 0 labs · 0 math
+**59** solved · 59 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-04-02 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2025-04-20 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2025-04-09 | [solution](problems/0054-implementing-a-simple-rnn) |
+| [Local Outlier Factor (LOF) Anomaly Score](https://www.deep-ml.com/problems/830) | medium | 2026-08-10 | [solution](problems/0830-local-outlier-factor-lof-anomaly-score) |
+| [Markov Decision Process Simulator](https://www.deep-ml.com/problems/510) | medium | 2026-08-10 | [solution](problems/0510-markov-decision-process-simulator) |
 | [Matrix Rank](https://www.deep-ml.com/problems/329) | medium | 2026-03-31 | [solution](problems/0329-matrix-rank) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2025-04-20 | [solution](problems/0009-matrix-times-matrix) |
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-26 | [solution](problems/0007-matrix-transformation) |
