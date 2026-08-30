@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:51:26.472Z",
+  "generated_at": "2026-10-01T16:51:28.476Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -767,6 +767,84 @@
       "last_pushed_at": "2026-08-10T20:50:53.843Z",
       "language": "python",
       "lines": 53
+    },
+    "problem:464": {
+      "kind": "problem",
+      "id": "464",
+      "title": "Bellman Expectation Equation for State-Value Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/464",
+      "path": "problems/0464-bellman-expectation-equation-for-state-value-function",
+      "first_solved_at": "2026-08-30T08:30:30.322Z",
+      "last_pushed_at": "2026-08-30T08:30:30.322Z",
+      "language": "python",
+      "lines": 50
+    },
+    "problem:465": {
+      "kind": "problem",
+      "id": "465",
+      "title": "Bellman Expectation Equation for Action-Value Function",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/465",
+      "path": "problems/0465-bellman-expectation-equation-for-action-value-function",
+      "first_solved_at": "2026-08-30T10:34:55.017Z",
+      "last_pushed_at": "2026-08-30T10:34:55.017Z",
+      "language": "python",
+      "lines": 212
+    },
+    "problem:166": {
+      "kind": "problem",
+      "id": "166",
+      "title": "Evaluate Expected Value in a Markov Decision Process",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/166",
+      "path": "problems/0166-evaluate-expected-value-in-a-markov-decision-process",
+      "first_solved_at": "2026-08-30T11:19:45.121Z",
+      "last_pushed_at": "2026-08-30T11:19:45.121Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:466": {
+      "kind": "problem",
+      "id": "466",
+      "title": "Optimal Policy Extraction from Q-Values",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/466",
+      "path": "problems/0466-optimal-policy-extraction-from-q-values",
+      "first_solved_at": "2026-08-30T20:05:50.231Z",
+      "last_pushed_at": "2026-08-30T20:05:50.231Z",
+      "language": "python",
+      "lines": 30
+    },
+    "problem:142": {
+      "kind": "problem",
+      "id": "142",
+      "title": "Gridworld Policy Evaluation",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/142",
+      "path": "problems/0142-gridworld-policy-evaluation",
+      "first_solved_at": "2026-08-30T20:31:56.733Z",
+      "last_pushed_at": "2026-08-30T20:31:56.733Z",
+      "language": "python",
+      "lines": 77
+    },
+    "problem:545": {
+      "kind": "problem",
+      "id": "545",
+      "title": "Compare Update Strategies in Policy Evaluation",
+      "difficulty": "easy",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/545",
+      "path": "problems/0545-compare-update-strategies-in-policy-evaluation",
+      "first_solved_at": "2026-08-30T20:47:40.905Z",
+      "last_pushed_at": "2026-08-30T20:47:40.905Z",
+      "language": "python",
+      "lines": 32
     }
   }
 }

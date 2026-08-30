@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**59** solved · 59 problems · 0 labs · 0 math
+**65** solved · 65 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-04-16 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate the Discounted Return for a Given Trajectory](https://www.deep-ml.com/problems/167) | easy | 2026-05-30 | [solution](problems/0167-calculate-the-discounted-return-for-a-given-trajectory) |
 | [Check Linear Independence of Vectors](https://www.deep-ml.com/problems/331) | easy | 2026-03-26 | [solution](problems/0331-check-linear-independence-of-vectors) |
+| [Compare Update Strategies in Policy Evaluation](https://www.deep-ml.com/problems/545) | easy | 2026-08-30 | [solution](problems/0545-compare-update-strategies-in-policy-evaluation) |
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-11-14 | [solution](problems/0165-compute-discounted-return) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-03-25 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-03-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
@@ -37,6 +38,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2025-04-10 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix Determinant & Trace](https://www.deep-ml.com/problems/195) | easy | 2026-03-26 | [solution](problems/0195-matrix-determinant-trace) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-04-16 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Optimal Policy Extraction from Q-Values](https://www.deep-ml.com/problems/466) | easy | 2026-08-30 | [solution](problems/0466-optimal-policy-extraction-from-q-values) |
 | [Pass@k and Majority Voting Evaluation Metrics](https://www.deep-ml.com/problems/226) | easy | 2026-06-14 | [solution](problems/0226-pass-k-and-majority-voting-evaluation-metrics) |
 | [Phi Transformation for Polynomial Features](https://www.deep-ml.com/problems/84) | easy | 2026-03-26 | [solution](problems/0084-phi-transformation-for-polynomial-features) |
 | [Poisson Distribution Probability Calculator](https://www.deep-ml.com/problems/81) | easy | 2025-04-11 | [solution](problems/0081-poisson-distribution-probability-calculator) |
@@ -50,14 +52,18 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-03-25 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-03-26 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-03-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
+| [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-08-30 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
+| [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-08-30 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-06-05 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-04-14 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2025-04-20 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
 | [Engram Context-Aware Gating](https://www.deep-ml.com/problems/327) | medium | 2026-03-25 | [solution](problems/0327-engram-context-aware-gating) |
+| [Evaluate Expected Value in a Markov Decision Process](https://www.deep-ml.com/problems/166) | medium | 2026-08-30 | [solution](problems/0166-evaluate-expected-value-in-a-markov-decision-process) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-03-31 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-03-30 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
 | [Gaussian Elimination for Solving Linear Systems](https://www.deep-ml.com/problems/58) | medium | 2026-03-31 | [solution](problems/0058-gaussian-elimination-for-solving-linear-systems) |
+| [Gridworld Policy Evaluation](https://www.deep-ml.com/problems/142) | medium | 2026-08-30 | [solution](problems/0142-gridworld-policy-evaluation) |
 | [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2025-06-23 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2025-06-22 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Reduced Row Echelon Form (RREF) Function](https://www.deep-ml.com/problems/48) | medium | 2026-04-02 | [solution](problems/0048-implement-reduced-row-echelon-form-rref-function) |
