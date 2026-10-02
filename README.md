@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**67** solved · 66 problems · 0 labs · 1 math
+**68** solved · 67 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -21,6 +21,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute Discounted Return](https://www.deep-ml.com/problems/165) | easy | 2025-11-14 | [solution](problems/0165-compute-discounted-return) |
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-03-25 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-03-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-02 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-04-21 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-04-20 | [solution](problems/0083-dot-product-calculator) |
 | [Exponential Weighted Average of Rewards](https://www.deep-ml.com/problems/161) | easy | 2026-05-30 | [solution](problems/0161-exponential-weighted-average-of-rewards) |
