@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**80** solved · 72 problems · 0 labs · 8 math
+**81** solved · 73 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -59,6 +59,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-03-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-08-30 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-08-30 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
+| [Binomial Distribution Probability](https://www.deep-ml.com/problems/79) | medium | 2026-10-04 | [solution](problems/0079-binomial-distribution-probability) |
 | [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2025-06-05 | [solution](problems/0090-bm25-ranking) |
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-04-14 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2025-04-18 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
