@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**86** solved · 76 problems · 0 labs · 10 math
+**87** solved · 76 problems · 0 labs · 11 math
 
 ![Coverage](./coverage.svg)
 
@@ -102,6 +102,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-02 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-02 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
 | [Law of Large Numbers and Central Limit Theorem](https://www.deep-ml.com/math-problems/23) | medium | 2026-10-04 | [solution](math/0023-law-of-large-numbers-and-central-limit-theorem) |
+| [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-05 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-10-04 | [solution](math/0036-multivariate-gaussians) |
 
 ---
