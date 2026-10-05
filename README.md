@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**90** solved · 76 problems · 0 labs · 14 math
+**91** solved · 77 problems · 0 labs · 14 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute the Cross Product of Two 3D Vectors](https://www.deep-ml.com/problems/118) | easy | 2026-03-25 | [solution](problems/0118-compute-the-cross-product-of-two-3d-vectors) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-03-26 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Demonstrate Law of Large Numbers with Sampling](https://www.deep-ml.com/problems/342) | easy | 2026-10-04 | [solution](problems/0342-demonstrate-law-of-large-numbers-with-sampling) |
+| [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-10-05 | [solution](problems/0116-derivative-of-a-polynomial) |
 | [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-10-02 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Detect Overfitting or Underfitting](https://www.deep-ml.com/problems/86) | easy | 2025-04-21 | [solution](problems/0086-detect-overfitting-or-underfitting) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2025-04-20 | [solution](problems/0083-dot-product-calculator) |
