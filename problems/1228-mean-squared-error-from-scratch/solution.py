@@ -10,11 +10,6 @@ def mse(pred, target):
 
     Returns:
         float: Mean of squared differences.
-    
-
-    mse= mean((pred-target)**2)
     """
-    
-    mean=torch.mean((pred-target)**2)
-    print(mean)
+    mean=torch.mean(torch.pow(pred-target,2))
     return mean.item()
