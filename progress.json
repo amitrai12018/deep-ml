@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T20:05:18.953Z",
+  "generated_at": "2026-11-26T20:50:00.041Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1277,6 +1277,19 @@
       "last_pushed_at": "2026-11-26T20:05:17.033Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:2401": {
+      "kind": "problem",
+      "id": "2401",
+      "title": "Why Log-Probabilities: Sequence Probability by Product and by Sum of Logs",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/2401",
+      "path": "problems/2401-why-log-probabilities-sequence-probability-by-product-and-by-sum-of-logs",
+      "first_solved_at": "2026-11-26T20:49:58.405Z",
+      "last_pushed_at": "2026-11-26T20:49:58.405Z",
+      "language": "python",
+      "lines": 60
     }
   }
 }

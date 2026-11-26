@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**101** solved · 83 problems · 0 labs · 18 math
+**102** solved · 84 problems · 0 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -63,6 +63,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Upper Confidence Bound (UCB) Action Selection](https://www.deep-ml.com/problems/162) | easy | 2026-05-30 | [solution](problems/0162-upper-confidence-bound-ucb-action-selection) |
 | [Vector Element-wise Sum](https://www.deep-ml.com/problems/121) | easy | 2026-03-25 | [solution](problems/0121-vector-element-wise-sum) |
 | [Vector Norms (L1/L2/L-inf) and the Frobenius Norm](https://www.deep-ml.com/problems/328) | easy | 2026-03-26 | [solution](problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm) |
+| [Why Log-Probabilities: Sequence Probability by Product and by Sum of Logs](https://www.deep-ml.com/problems/2401) | easy | 2026-11-26 | [solution](problems/2401-why-log-probabilities-sequence-probability-by-product-and-by-sum-of-logs) |
 | [2D Translation Matrix Implementation](https://www.deep-ml.com/problems/55) | medium | 2026-03-30 | [solution](problems/0055-2d-translation-matrix-implementation) |
 | [Bellman Expectation Equation for Action-Value Function](https://www.deep-ml.com/problems/465) | medium | 2026-08-30 | [solution](problems/0465-bellman-expectation-equation-for-action-value-function) |
 | [Bellman Expectation Equation for State-Value Function](https://www.deep-ml.com/problems/464) | medium | 2026-08-30 | [solution](problems/0464-bellman-expectation-equation-for-state-value-function) |
