@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:41:48.944Z",
+  "generated_at": "2026-11-26T20:05:18.953Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1264,6 +1264,19 @@
       "last_pushed_at": "2026-11-25T13:41:48.723Z",
       "language": "python",
       "lines": 23
+    },
+    "problem:1060": {
+      "kind": "problem",
+      "id": "1060",
+      "title": "Swap LM Head with Classification Head",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/1060",
+      "path": "problems/1060-swap-lm-head-with-classification-head",
+      "first_solved_at": "2026-11-26T20:05:17.033Z",
+      "last_pushed_at": "2026-11-26T20:05:17.033Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
