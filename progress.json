@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T06:50:38.057Z",
+  "generated_at": "2026-11-28T08:51:49.442Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1314,6 +1314,19 @@
       "path": "math/0025-kl-divergence",
       "first_solved_at": "2026-11-28T06:50:35.935Z",
       "last_pushed_at": "2026-11-28T06:50:35.935Z"
+    },
+    "problem:1437": {
+      "kind": "problem",
+      "id": "1437",
+      "title": "Quantization Quality Check: KL Divergence and Top-1 Agreement",
+      "difficulty": "medium",
+      "category": "Inference",
+      "url": "https://www.deep-ml.com/problems/1437",
+      "path": "problems/1437-quantization-quality-check-kl-divergence-and-top-1-agreement",
+      "first_solved_at": "2026-11-28T08:51:48.380Z",
+      "last_pushed_at": "2026-11-28T08:51:48.380Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }

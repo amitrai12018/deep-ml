@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**104** solved · 85 problems · 0 labs · 19 math
+**105** solved · 86 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -93,6 +93,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Transformation ](https://www.deep-ml.com/problems/7) | medium | 2026-03-26 | [solution](problems/0007-matrix-transformation) |
 | [MMLU Log-Probability Scoring](https://www.deep-ml.com/problems/316) | medium | 2026-10-20 | [solution](problems/0316-mmlu-log-probability-scoring) |
 | [Normal Distribution PDF Calculator](https://www.deep-ml.com/problems/80) | medium | 2026-10-04 | [solution](problems/0080-normal-distribution-pdf-calculator) |
+| [Quantization Quality Check: KL Divergence and Top-1 Agreement](https://www.deep-ml.com/problems/1437) | medium | 2026-11-28 | [solution](problems/1437-quantization-quality-check-kl-divergence-and-top-1-agreement) |
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-03-27 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2025-04-28 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Temperature Sampling](https://www.deep-ml.com/problems/378) | medium | 2026-11-26 | [solution](problems/0378-temperature-sampling) |
