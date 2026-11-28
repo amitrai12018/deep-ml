@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T09:15:09.304Z",
+  "generated_at": "2026-11-28T12:40:03.825Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1338,6 +1338,19 @@
       "path": "math/0670-cross-entropy-entropy-kl-why-training-on-fixed-data-minimizes-kl",
       "first_solved_at": "2026-11-28T09:15:03.242Z",
       "last_pushed_at": "2026-11-28T09:15:03.242Z"
+    },
+    "problem:2398": {
+      "kind": "problem",
+      "id": "2398",
+      "title": "Monte Carlo Estimate of the Reverse KL Between Two Token Distributions",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/2398",
+      "path": "problems/2398-monte-carlo-estimate-of-the-reverse-kl-between-two-token-distributions",
+      "first_solved_at": "2026-11-28T12:40:01.795Z",
+      "last_pushed_at": "2026-11-28T12:40:01.795Z",
+      "language": "python",
+      "lines": 80
     }
   }
 }
