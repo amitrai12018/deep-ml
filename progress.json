@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T08:51:59.655Z",
+  "generated_at": "2026-11-28T09:15:09.304Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1327,6 +1327,17 @@
       "last_pushed_at": "2026-11-28T08:51:58.653Z",
       "language": "python",
       "lines": 41
+    },
+    "math:670": {
+      "kind": "math",
+      "id": "670",
+      "title": "Cross-Entropy = Entropy + KL: Why Training on Fixed Data Minimizes KL",
+      "difficulty": "medium",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/670",
+      "path": "math/0670-cross-entropy-entropy-kl-why-training-on-fixed-data-minimizes-kl",
+      "first_solved_at": "2026-11-28T09:15:03.242Z",
+      "last_pushed_at": "2026-11-28T09:15:03.242Z"
     }
   }
 }

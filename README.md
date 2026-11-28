@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**105** solved · 86 problems · 0 labs · 19 math
+**106** solved · 86 problems · 0 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -114,6 +114,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Bradley-Terry Preference Model](https://www.deep-ml.com/math-problems/51) | medium | 2026-10-14 | [solution](math/0051-bradley-terry-preference-model) |
 | [Common Distributions I: Bernoulli, Binomial, Uniform](https://www.deep-ml.com/math-problems/21) | medium | 2026-10-02 | [solution](math/0021-common-distributions-i-bernoulli-binomial-uniform) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-10-02 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
+| [Cross-Entropy = Entropy + KL: Why Training on Fixed Data Minimizes KL](https://www.deep-ml.com/math-problems/670) | medium | 2026-11-28 | [solution](math/0670-cross-entropy-entropy-kl-why-training-on-fixed-data-minimizes-kl) |
 | [Determinants and Trace](https://www.deep-ml.com/math-problems/11) | medium | 2026-11-03 | [solution](math/0011-determinants-and-trace) |
 | [Information Theory: Entropy](https://www.deep-ml.com/math-problems/24) | medium | 2026-10-14 | [solution](math/0024-information-theory-entropy) |
 | [Inverse and Rank](https://www.deep-ml.com/math-problems/12) | medium | 2026-11-03 | [solution](math/0012-inverse-and-rank) |
