@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:02:11.872Z",
+  "generated_at": "2026-11-28T06:50:38.057Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1303,6 +1303,17 @@
       "last_pushed_at": "2026-11-26T21:02:10.074Z",
       "language": "python",
       "lines": 26
+    },
+    "math:25": {
+      "kind": "math",
+      "id": "25",
+      "title": "KL Divergence",
+      "difficulty": "hard",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/25",
+      "path": "math/0025-kl-divergence",
+      "first_solved_at": "2026-11-28T06:50:35.935Z",
+      "last_pushed_at": "2026-11-28T06:50:35.935Z"
     }
   }
 }

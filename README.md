@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**103** solved · 85 problems · 0 labs · 18 math
+**104** solved · 85 problems · 0 labs · 19 math
 
 ![Coverage](./coverage.svg)
 
@@ -120,6 +120,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-10-05 | [solution](math/0010-matrix-multiplication) |
 | [Multivariate Gaussians](https://www.deep-ml.com/math-problems/36) | medium | 2026-10-04 | [solution](math/0036-multivariate-gaussians) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-10-05 | [solution](math/0008-vector-norms-and-linear-independence) |
+| [KL Divergence](https://www.deep-ml.com/math-problems/25) | hard | 2026-11-28 | [solution](math/0025-kl-divergence) |
 
 ---
 
