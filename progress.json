@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T12:40:03.825Z",
+  "generated_at": "2026-11-28T12:40:11.508Z",
   "items": {
     "problem:39": {
       "kind": "problem",
@@ -1348,7 +1348,7 @@
       "url": "https://www.deep-ml.com/problems/2398",
       "path": "problems/2398-monte-carlo-estimate-of-the-reverse-kl-between-two-token-distributions",
       "first_solved_at": "2026-11-28T12:40:01.795Z",
-      "last_pushed_at": "2026-11-28T12:40:01.795Z",
+      "last_pushed_at": "2026-11-28T12:40:09.644Z",
       "language": "python",
       "lines": 80
     }
